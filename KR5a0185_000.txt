@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:40:10.212671
+# -*- mode: mandoku-view -*-
 #+TITLE: 太真玉帝四極明科經
-#+PROPERTY: DZID  DZ0184
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—415 五卷 洞真部戒律類
+#+DATE: 2015-08-28 23:40:12
+#+PROPERTY:  LASTPB <PB KR5a0185_SJB_005-030436a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶
+
